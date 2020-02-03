@@ -4,4 +4,3 @@ branch update
 
 master update
 
-master conflict update
